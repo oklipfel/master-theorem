@@ -1,7 +1,7 @@
 # Lab: Master Theorem
 
 Notice that this lab is not hosted on github but on a competitor website gitlab.
-There are many different websites for hosting git repositories,
+There  are many different websites for hosting git repositories,
 but all of them are just front-ends for the git command line utility.
 We are using github in class because it provides a convenient and free continuous integration system (github actions) for open source projects,
 so you don't have to pay every time you submit an assignment and run the test cases.
