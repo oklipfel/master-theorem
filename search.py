@@ -15,7 +15,7 @@ def sequential_search_itr(xs, y):
 
 def binary_search(xs, y):
     '''
-    Assume that xs is a list of numbers sorted from LOWEST to HIGHEST.
+    Assume  that xs is a list of numbers sorted from LOWEST to HIGHEST.
     Return True if y is in the list xs.
 
     >>> binary_search([1, 3, 5, 7, 9, 11], 9)
