@@ -83,7 +83,7 @@ The purpose of this lab is to both get you familiar with using these non-github 
         |                | `binary_search`           | `trinary_search`      |
         | -------------- | ------------------------- | --------------------- | 
         | `n=2**0`       |        0.342 usec         |      0.751 usec       |
-        | `n=2**1`       |        0.56 usec          |      1.02 usec        |
+        | `n=2**1`       |       0.56 usec           |      1.02 usec        |
         | `n=2**2`       |        0.784 usec         |      1.05 usec        |
         | `n=2**3`       |        0.878 usec         |      1.15 usec        |
         | `n=2**4`       |        1.11 usec          |      0.285 usec       |
